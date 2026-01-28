@@ -1,17 +1,17 @@
 /* ===== CSS Variables ===== */
 :root {
-    --primary: #E91E63;
-    --primary-dark: #C2185B;
-    --secondary: #9C27B0;
-    --accent: #FFC107;
-    --background: #FFF8E1;
+    --primary: #7C9885;
+    --primary-dark: #5F7A68;
+    --secondary: #A8B5A0;
+    --accent: #D4C4A8;
+    --background: #F9F7F4;
     --background-alt: #FFFFFF;
-    --text: #333333;
-    --text-light: #666666;
-    --text-lighter: #999999;
+    --text: #4A4A4A;
+    --text-light: #6B6B6B;
+    --text-lighter: #9A9A9A;
     --white: #FFFFFF;
-    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.15);
+    --shadow: 0 4px 6px rgba(0, 0, 0, 0.08);
+    --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.1);
     --radius: 12px;
     --radius-sm: 8px;
     --transition: all 0.3s ease;
@@ -368,7 +368,7 @@ img {
 }
 
 .room-badge.deluxe {
-    background: var(--secondary);
+    background: #8B7355;
     color: var(--white);
 }
 
@@ -494,7 +494,7 @@ img {
 /* ===== Testimonials Section ===== */
 .testimonials {
     padding: 80px 0;
-    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    background: linear-gradient(135deg, #7C9885, #A8B5A0);
 }
 
 .testimonials .section-header h2,
@@ -704,7 +704,7 @@ img {
 }
 
 .cta-card {
-    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    background: linear-gradient(135deg, #7C9885, #5F7A68);
     color: var(--white);
     padding: 40px;
     border-radius: var(--radius);
