@@ -72,11 +72,11 @@ Semarang Indah, Kota Semarang, Jawa Tengah
 ## Panduan Pengembangan
 
 ### Warna Brand
-- Primary: `#E91E63` (Pink)
-- Secondary: `#9C27B0` (Purple)
-- Accent: `#FFC107` (Amber)
-- Background: `#FFF8E1` (Cream)
-- Text: `#333333` (Dark Gray)
+- Primary: `#7C9885` (Sage Green)
+- Secondary: `#A8B5A0` (Soft Green)
+- Accent: `#D4C4A8` (Warm Beige)
+- Background: `#F9F7F4` (Off-white)
+- Text: `#4A4A4A` (Dark Gray)
 
 ### Font
 - Heading: Poppins
@@ -95,13 +95,19 @@ Semarang Indah, Kota Semarang, Jawa Tengah
 - **Email**: [email pemilik kos]
 - **Instagram**: [akun IG kos]
 
+## Deployment
+
+- **Repository**: https://github.com/flickersgit/kos-putri-semarang-indah
+- **Live URL**: https://flickersgit.github.io/kos-putri-semarang-indah/
+
 ## TODO
 
-- [ ] Buat halaman utama dengan hero section
-- [ ] Buat halaman daftar kamar
-- [ ] Buat halaman galeri foto
-- [ ] Buat halaman kontak dengan peta lokasi
-- [ ] Implementasi form booking/reservasi
-- [ ] Integrasi WhatsApp untuk inquiry
-- [ ] Optimasi SEO
-- [ ] Deploy ke hosting
+- [x] Buat halaman utama dengan hero section
+- [x] Buat halaman daftar kamar
+- [x] Buat halaman galeri foto (placeholder)
+- [x] Buat halaman kontak dengan peta lokasi
+- [x] Integrasi WhatsApp untuk inquiry
+- [x] Deploy ke GitHub Pages
+- [ ] Tambahkan foto asli kos ke folder images/
+- [ ] Update peta Google Maps dengan koordinat yang tepat
+- [ ] Optimasi SEO (meta tags, sitemap)
