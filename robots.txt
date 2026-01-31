@@ -1,0 +1,11 @@
+# robots.txt for Kos Putri Semarang Indah
+# https://flickersgit.github.io/kos-putri-semarang-indah/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://flickersgit.github.io/kos-putri-semarang-indah/sitemap.xml
+
+# Crawl-delay (optional, for polite crawling)
+Crawl-delay: 1
